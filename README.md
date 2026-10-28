@@ -1,2 +1,2 @@
 - `index.php` - подключение компонента `bitrix:form.result.new` на главной странице
-- `local/templates/.default/components/bitrix/form.result.new/contact_form/` - шаблон веб-формы обратной связи
+- `local/templates/.default/components/bitrix/form.result.new/contact_form/` - шаблон компонента
