@@ -1,4 +1,3 @@
-## Tasks-for-trainees
-- [task_1](https://github.com/vldzmtv/tasks-for-trainees/tree/task_1)
-- [task_2](https://github.com/vldzmtv/tasks-for-trainees/tree/task_2)
-- [task_3](https://github.com/vldzmtv/tasks-for-trainees/tree/task_3)
+- `local/modules/dev.site/lib/Handlers/Iblock.php` — обработчик событий
+- `local/modules/dev.site/lib/Agents/Iblock.php` — агент
+- `Подключение агента.png` — скриншот агента в админке
